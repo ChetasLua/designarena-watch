@@ -17,7 +17,7 @@ Replay test: run against 23 Wayback copies of the registry (Mar 30 – Oct 26, 2
 `.github/workflows/watch.yml` polls on a cron and commits `state/` back to the repo when something changes. The repo history is therefore a timestamped record of every registry change.
 1. Add the webhook as a repo secret named `DA_WEBHOOK_URL` (optional: `DA_MENTION_ROLE_ID` to ping a role on new or revealed stealth models).
 2. Actions → designarena-watch → Run workflow → `test-post`, then `roster` to post the fresh stealth slots.
-3. Cadence: `*/30` in a private repo keeps a free account inside its 2,000 Actions minutes a month. In a public repo minutes are free, so switch to `*/5`. GitHub may run scheduled jobs a few minutes late.
+3. Cadence: every 5 minutes (`*/5`, GitHub's minimum). That is free because the repo is public. If it ever goes private, use `*/30` to stay inside a free account's 2,000 Actions minutes a month. GitHub may run scheduled jobs a few minutes late.
 Alerts found before the secret exists are queued in `state/pending.json` and delivered on the first run after it's set (up to 50).
 
 ## Local setup

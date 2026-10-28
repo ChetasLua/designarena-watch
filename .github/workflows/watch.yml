@@ -2,9 +2,9 @@ name: designarena-watch
 
 on:
   schedule:
-    # Private repo: every 30 min keeps a free account inside its 2,000 Actions minutes/month
-    # (each run is billed as 1 minute). In a public repo minutes are free; use "*/5 * * * *".
-    - cron: "*/30 * * * *"
+    # Public repo: Actions minutes are free, so poll every 5 minutes (GitHub's minimum;
+    # scheduled runs can start a few minutes late). If the repo goes private, use "*/30".
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       command:
