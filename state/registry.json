@@ -11941,10 +11941,8 @@
   },
   "gpt-6.1-terra": {
    "text": {
-    "cacheWrite": 1.25,
-    "cachedInput": 0.05,
-    "input": 1,
-    "output": 5
+    "input": 999,
+    "output": 999
    }
   },
   "gpt-image-1": {
