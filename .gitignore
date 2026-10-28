@@ -1,0 +1,4 @@
+config.json
+state/snapshots/
+state/*.log
+__pycache__/

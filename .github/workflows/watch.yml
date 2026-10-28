@@ -1,0 +1,56 @@
+name: designarena-watch
+
+on:
+  schedule:
+    # Private repo: every 30 min keeps a free account inside its 2,000 Actions minutes/month
+    # (each run is billed as 1 minute). In a public repo minutes are free; use "*/5 * * * *".
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "once = normal poll, roster = post fresh stealth slots, test-post = check the webhook"
+        type: choice
+        options: [once, roster, test-post]
+        default: once
+      days:
+        description: "roster: slots first seen in the last N days"
+        default: "45"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: designarena-watch
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Poll Design Arena registry
+        env:
+          DA_WEBHOOK_URL: ${{ secrets.DA_WEBHOOK_URL }}
+          DA_MENTION_ROLE_ID: ${{ secrets.DA_MENTION_ROLE_ID }}
+          DA_NO_SNAPSHOTS: "1"
+          CMD: ${{ github.event.inputs.command || 'once' }}
+          DAYS: ${{ github.event.inputs.days || '45' }}
+        run: |
+          case "$CMD" in
+            roster)    python3 -I watch.py baseline --days "$DAYS" --post ;;
+            test-post) python3 -I watch.py test-post ;;
+            *)         python3 -I watch.py once ;;
+          esac
+
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "designarena-watch[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          if ! git diff --cached --quiet; then
+            git commit -q -m "state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

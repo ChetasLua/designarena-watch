@@ -1,0 +1,9 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/<id>/<token>",
+  "username": "Design Arena Watch",
+  "mention_role_id": "",
+  "mention_on": ["stealth_added", "stealth_revealed"],
+  "mute": [],
+  "mute_fields": ["pricing"],
+  "digest_over": 4
+}
