@@ -8613,6 +8613,19 @@
    "provider": "playyy",
    "router": false
   },
+  "plywood": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "video"
+    ]
+   },
+   "displayName": "Pika H3 Flex",
+   "id": "plywood",
+   "openSource": true,
+   "provider": "pika",
+   "router": false
+  },
   "prism": {
    "active": true,
    "arenas": {
@@ -14447,10 +14460,6 @@
   },
   "pluto": {
    "displayName": "Pluto",
-   "logoName": "private.png"
-  },
-  "plywood": {
-   "displayName": "plywood",
    "logoName": "private.png"
   },
   "poppy": {

@@ -1,1 +1,43 @@
-[]
+[
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 16096779,
+    "description": "**Pika H3 Flex** \u00b7 Pika (`plywood`)",
+    "fields": [
+     {
+      "inline": true,
+      "name": "Lab",
+      "value": "Pika"
+     },
+     {
+      "inline": true,
+      "name": "Open weights",
+      "value": "True"
+     },
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "video"
+     },
+     {
+      "inline": true,
+      "name": "Slot first seen",
+      "value": "2026-10-20T22:29:33Z .. 2026-10-26T10:39:50Z"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-29T19:29:31Z",
+    "title": "\ud83c\udfad Revealed: `plywood` \u2192 Pika H3 Flex",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
+ }
+]
