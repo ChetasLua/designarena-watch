@@ -12925,6 +12925,11 @@
     "perImage": 0.03
    }
   },
+  "plywood": {
+   "video": {
+    "perSecond": 0.02
+   }
+  },
   "prism": {
    "text": {
     "input": 0,
