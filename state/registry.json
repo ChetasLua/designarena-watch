@@ -86,7 +86,10 @@
    "id": "aleph2",
    "openSource": false,
    "provider": "runwayml",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "amazon_polly": {
    "active": true,
@@ -128,7 +131,10 @@
    "id": "arkansas",
    "openSource": false,
    "provider": "fal",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "arrow-1.1": {
    "active": true,
@@ -328,7 +334,10 @@
    "id": "black-panther",
    "openSource": false,
    "provider": "decart",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "blink-mobile": {
    "active": true,
@@ -396,7 +405,10 @@
    "id": "caffeine",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "camellia": {
    "active": false,
@@ -1392,7 +1404,10 @@
    "id": "cosmos-3-super",
    "openSource": true,
    "provider": "nvidia",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "create-anything-08-08": {
    "active": true,
@@ -1618,7 +1633,10 @@
    "modeOf": "caffeine",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "deepgram_aura_v2": {
    "active": true,
@@ -2237,7 +2255,10 @@
    "id": "fig",
    "openSource": false,
    "provider": "fal",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "figma-make": {
    "active": true,
@@ -2524,7 +2545,10 @@
    "id": "flux-3-video",
    "openSource": false,
    "provider": "black_forest_labs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "flux-3-video-edit": {
    "active": true,
@@ -2537,7 +2561,10 @@
    "id": "flux-3-video-edit",
    "openSource": false,
    "provider": "black_forest_labs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "flux-kontext-max": {
    "active": true,
@@ -3329,7 +3356,10 @@
    "id": "gemini-omni-flash-1.1",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "gemini-omni-flash-2": {
    "active": true,
@@ -3346,7 +3376,10 @@
    "id": "gemini-omni-flash-2",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "gemma-4-26b-a4b-it": {
    "active": false,
@@ -3408,7 +3441,10 @@
    "id": "gen4_aleph",
    "openSource": false,
    "provider": "runwayml",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "glam-ai-1.0": {
    "active": false,
@@ -3421,7 +3457,10 @@
    "id": "glam-ai-1.0",
    "openSource": false,
    "provider": "glam",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "glm-4.5": {
    "active": false,
@@ -5458,7 +5497,10 @@
    "id": "grok-imagine-video",
    "openSource": false,
    "provider": "xai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "grok_tts": {
    "active": true,
@@ -5485,7 +5527,10 @@
    "id": "hailuo-2.3-pro",
    "openSource": false,
    "provider": "minimax",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "hailuo-2.3-standard": {
    "active": false,
@@ -5499,7 +5544,10 @@
    "id": "hailuo-2.3-standard",
    "openSource": false,
    "provider": "minimax",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "hampshire": {
    "active": true,
@@ -5541,7 +5589,10 @@
    "id": "happy-horse-1.0",
    "openSource": false,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "happy-horse-1.1": {
    "active": true,
@@ -5560,7 +5611,10 @@
    "id": "happy-horse-1.1",
    "openSource": false,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "hawaii": {
    "active": true,
@@ -5603,7 +5657,10 @@
    "id": "heygen-video-1",
    "openSource": false,
    "provider": "heygen",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "heygen-voice": {
    "active": true,
@@ -5804,7 +5861,10 @@
    "id": "hunyuan-3d-pro",
    "openSource": false,
    "provider": "tencent",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "hunyuan-3d-v3.1-pro": {
    "active": true,
@@ -5837,7 +5897,10 @@
    "id": "hunyuan-video",
    "openSource": true,
    "provider": "tencent",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "hunyuan-video-to-video": {
    "active": false,
@@ -5850,7 +5913,10 @@
    "id": "hunyuan-video-to-video",
    "openSource": true,
    "provider": "tencent",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "hy3": {
    "active": false,
@@ -6152,7 +6218,10 @@
    "id": "kandinsky-5.0",
    "openSource": true,
    "provider": "ai_forever",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "kandinsky-5.0-pro": {
    "active": false,
@@ -6166,7 +6235,10 @@
    "id": "kandinsky-5.0-pro",
    "openSource": true,
    "provider": "ai_forever",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "kestrel": {
    "active": false,
@@ -6489,7 +6561,10 @@
    "id": "kling-o1-edit",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "kling-o1-ref": {
    "active": false,
@@ -6502,7 +6577,10 @@
    "id": "kling-o1-ref",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "kling-o3-pro": {
    "active": true,
@@ -6517,7 +6595,10 @@
    "id": "kling-o3-pro",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "kling-o3-v2v-ref": {
    "active": true,
@@ -6530,7 +6611,10 @@
    "id": "kling-o3-v2v-ref",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "kling-v2.5-turbo-pro": {
    "active": false,
@@ -6544,7 +6628,10 @@
    "id": "kling-v2.5-turbo-pro",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "kling-v2.6-pro": {
    "active": true,
@@ -6558,7 +6645,10 @@
    "id": "kling-v2.6-pro",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "kling-v3-pro": {
    "active": false,
@@ -6572,7 +6662,10 @@
    "id": "kling-v3-pro",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "kling-v4": {
    "active": true,
@@ -6587,7 +6680,10 @@
    "id": "kling-v4",
    "openSource": false,
    "provider": "klingai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "kokoro_tts": {
    "active": true,
@@ -6658,7 +6754,10 @@
    "id": "krea-wan-14b",
    "openSource": true,
    "provider": "krea",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "ladybug": {
    "active": true,
@@ -6704,7 +6803,10 @@
    "id": "libra",
    "openSource": false,
    "provider": "xai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "lightning_tts": {
    "active": false,
@@ -6808,7 +6910,10 @@
    "id": "lochness",
    "openSource": false,
    "provider": "xai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "longcat-2.0": {
    "active": false,
@@ -6857,7 +6962,10 @@
    "id": "ltx-2-19b",
    "openSource": true,
    "provider": "ltx",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "ltx-2-19b-video-to-video": {
    "active": true,
@@ -6871,7 +6979,10 @@
    "id": "ltx-2-19b-video-to-video",
    "openSource": true,
    "provider": "ltx",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "ltx-2.3": {
    "active": false,
@@ -6885,7 +6996,10 @@
    "id": "ltx-2.3",
    "openSource": true,
    "provider": "ltx",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "ltx-2.5-fast": {
    "active": true,
@@ -6899,7 +7013,10 @@
    "id": "ltx-2.5-fast",
    "openSource": true,
    "provider": "ltx",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "ltx-2.5-pro": {
    "active": true,
@@ -6913,7 +7030,10 @@
    "id": "ltx-2.5-pro",
    "openSource": true,
    "provider": "ltx",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "lucy-2.5": {
    "active": false,
@@ -6927,7 +7047,10 @@
    "id": "lucy-2.5",
    "openSource": false,
    "provider": "decart",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "macaly": {
    "active": true,
@@ -7276,7 +7399,10 @@
    "id": "marble-1.1",
    "openSource": false,
    "provider": "worldlabs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "marble-1.1-plus": {
    "active": true,
@@ -7289,7 +7415,10 @@
    "id": "marble-1.1-plus",
    "openSource": false,
    "provider": "worldlabs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "maya1_tts": {
    "active": true,
@@ -7444,7 +7573,10 @@
    "id": "minimax-h3",
    "openSource": true,
    "provider": "minimax",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "minimax-m2-stable": {
    "active": false,
@@ -7635,6 +7767,22 @@
    "openSource": true,
    "provider": "mistral",
    "router": false
+  },
+  "mischief-1": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "imagetovideo"
+    ]
+   },
+   "displayName": "Mischief 1",
+   "id": "mischief-1",
+   "openSource": false,
+   "provider": "tbc",
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "mistral-large-2411": {
    "active": false,
@@ -8339,7 +8487,10 @@
    "id": "odyssey-2-pro",
    "openSource": false,
    "provider": "odyssey",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "olmo-3.1-32b-think": {
    "active": false,
@@ -8458,7 +8609,10 @@
    "modeOf": "heygen-video-1",
    "openSource": false,
    "provider": "heygen",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2": {
    "active": false,
@@ -8472,7 +8626,10 @@
    "id": "p-video-2",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2-draft": {
    "active": false,
@@ -8486,7 +8643,10 @@
    "id": "p-video-2-draft",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2-pro-cost": {
    "active": false,
@@ -8501,7 +8661,10 @@
    "modeOf": "p-video-2-pro-quality",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2-pro-quality": {
    "active": false,
@@ -8515,7 +8678,10 @@
    "id": "p-video-2-pro-quality",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2-pro-reference-cost": {
    "active": true,
@@ -8530,7 +8696,10 @@
    "modeOf": "p-video-2-pro-reference-speed",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2-pro-reference-speed": {
    "active": true,
@@ -8544,7 +8713,10 @@
    "id": "p-video-2-pro-reference-speed",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "p-video-2-pro-speed": {
    "active": false,
@@ -8559,7 +8731,10 @@
    "modeOf": "p-video-2-pro-quality",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "peach": {
    "active": false,
@@ -8572,7 +8747,10 @@
    "id": "peach",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "pear": {
    "active": false,
@@ -8624,7 +8802,10 @@
    "id": "plywood",
    "openSource": true,
    "provider": "pika",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "prism": {
    "active": true,
@@ -9125,7 +9306,10 @@
    "id": "ray-2",
    "openSource": false,
    "provider": "lumalabs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "ray-3-14": {
    "active": false,
@@ -9139,7 +9323,10 @@
    "id": "ray-3-14",
    "openSource": false,
    "provider": "lumalabs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "ray-3-2": {
    "active": false,
@@ -9155,7 +9342,10 @@
    "id": "ray-3-2",
    "openSource": false,
    "provider": "lumalabs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "ray-flash-2": {
    "active": false,
@@ -9169,7 +9359,10 @@
    "id": "ray-flash-2",
    "openSource": false,
    "provider": "lumalabs",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "recraftv3-02-11": {
    "active": false,
@@ -9554,7 +9747,10 @@
    "id": "seedance-1.0-lite-ref",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "seedance-1.0-pro-fast": {
    "active": false,
@@ -9568,7 +9764,10 @@
    "id": "seedance-1.0-pro-fast",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "seedance-1.5-pro": {
    "active": false,
@@ -9582,7 +9781,10 @@
    "id": "seedance-1.5-pro",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "seedance-2.0": {
    "active": true,
@@ -9598,7 +9800,10 @@
    "id": "seedance-2.0",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "seedance-2.0-fast": {
    "active": true,
@@ -9614,7 +9819,10 @@
    "id": "seedance-2.0-fast",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "seedance-2.0-mini": {
    "active": true,
@@ -9630,7 +9838,10 @@
    "id": "seedance-2.0-mini",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "seedance-2.5": {
    "active": true,
@@ -9646,7 +9857,10 @@
    "id": "seedance-2.5",
    "openSource": false,
    "provider": "bytedance",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "seedream-4.0": {
    "active": true,
@@ -9909,7 +10123,10 @@
    "id": "sora",
    "openSource": false,
    "provider": "sora",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "sora-2": {
    "active": false,
@@ -9923,7 +10140,10 @@
    "id": "sora-2",
    "openSource": false,
    "provider": "openai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "sora-2-pro": {
    "active": false,
@@ -9937,7 +10157,10 @@
    "id": "sora-2-pro",
    "openSource": false,
    "provider": "openai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "stable_audio_25": {
    "active": true,
@@ -10003,7 +10226,10 @@
    "modeOf": "peach",
    "openSource": false,
    "provider": "pruna",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "thistle": {
    "active": false,
@@ -10032,7 +10258,10 @@
    "id": "tomato",
    "openSource": false,
    "provider": "xai",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "trellis-2": {
    "active": true,
@@ -10330,7 +10559,10 @@
    "id": "veo-3",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "veo-3-fast": {
    "active": false,
@@ -10344,7 +10576,10 @@
    "id": "veo-3-fast",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "veo-3.1": {
    "active": false,
@@ -10359,7 +10594,10 @@
    "id": "veo-3.1",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "veo-3.1-fast": {
    "active": true,
@@ -10374,7 +10612,10 @@
    "id": "veo-3.1-fast",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "veo-3.1-lite": {
    "active": true,
@@ -10388,7 +10629,10 @@
    "id": "veo-3.1-lite",
    "openSource": false,
    "provider": "google",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "verso": {
    "active": false,
@@ -10414,7 +10658,10 @@
    "id": "vidu-q2-ref",
    "openSource": false,
    "provider": "vidu",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "viduq2-image": {
    "active": false,
@@ -10468,7 +10715,10 @@
    "id": "wan-2.2-t2v-a14b",
    "openSource": true,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "wan-v2.6-ref": {
    "active": false,
@@ -10481,7 +10731,10 @@
    "id": "wan-v2.6-ref",
    "openSource": true,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "wan-v2.7-edit": {
    "active": false,
@@ -10536,7 +10789,10 @@
    "id": "wan-v2.7-ref",
    "openSource": false,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "wan-v2.7-t2i": {
    "active": true,
@@ -10565,7 +10821,10 @@
    "id": "wan-v2.7-t2v",
    "openSource": false,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "wan-v2.7-v2v": {
    "active": false,
@@ -10578,7 +10837,10 @@
    "id": "wan-v2.7-v2v",
    "openSource": false,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "wan-v3.0-t2v": {
    "active": true,
@@ -10592,7 +10854,10 @@
    "id": "wan-v3.0-t2v",
    "openSource": false,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
   },
   "wan-vace": {
    "active": false,
@@ -10606,7 +10871,10 @@
    "id": "wan-vace",
    "openSource": true,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "wan2.1-t2v-14b": {
    "active": false,
@@ -10619,7 +10887,10 @@
    "id": "wan2.1-t2v-14b",
    "openSource": true,
    "provider": "alibaba",
-   "router": false
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "winterfall": {
    "active": false,
@@ -12683,6 +12954,11 @@
     "output": 0.15
    }
   },
+  "mischief-1": {
+   "video": {
+    "perSecond": 0.01
+   }
+  },
   "mistral-large-2411": {
    "text": {
     "input": 2,
@@ -14730,6 +15006,11 @@
   "tangerine": {
    "displayName": "tangerine",
    "logoName": "private.png"
+  },
+  "tbc": {
+   "displayName": "TBC",
+   "logoName": "tbc.png",
+   "website": "https://www.tbc.co"
   },
   "tencent": {
    "displayName": "Tencent",

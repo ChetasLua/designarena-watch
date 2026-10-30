@@ -39,5 +39,52 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Mischief 1** \u00b7 TBC (`mischief-1`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "imagetovideo"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "video perSecond 0.01"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-30T20:41:31Z",
+    "title": "\ud83c\udd95 New model: Mischief 1",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1357990,
+    "description": "`tbc` \u00b7 https://www.tbc.co",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-30T20:41:31Z",
+    "title": "\ud83c\udfe2 New lab on Design Arena: TBC",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
