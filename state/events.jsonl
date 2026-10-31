@@ -5,3 +5,4 @@
 {"type": "stealth_added", "codename": "hayes", "displayName": "hayes", "family": null, "family_siblings": [], "date_hint": null, "batch": ["cowhollow", "hayes", "pacheights"], "at": "2026-10-31T00:06:15Z"}
 {"type": "stealth_added", "codename": "cowhollow", "displayName": "cowhollow", "family": null, "family_siblings": [], "date_hint": null, "batch": ["cowhollow", "hayes", "pacheights"], "at": "2026-10-31T00:06:15Z"}
 {"type": "stealth_added", "codename": "pacheights", "displayName": "pacheights", "family": null, "family_siblings": [], "date_hint": null, "batch": ["cowhollow", "hayes", "pacheights"], "at": "2026-10-31T00:06:15Z"}
+{"type": "stealth_added", "codename": "calfhollow", "displayName": "calfhollow", "family": null, "family_siblings": [], "date_hint": null, "batch": ["calfhollow"], "at": "2026-10-31T05:29:49Z"}

@@ -146,5 +146,25 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-31T05:29:49Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `calfhollow`",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
