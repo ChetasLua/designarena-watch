@@ -86,5 +86,65 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`cowhollow`, `hayes`, `pacheights`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-31T00:06:15Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `hayes`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`cowhollow`, `hayes`, `pacheights`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-31T00:06:15Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `cowhollow`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`cowhollow`, `hayes`, `pacheights`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-10-31T00:06:15Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `pacheights`",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

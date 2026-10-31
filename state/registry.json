@@ -14030,6 +14030,10 @@
    "displayName": "cove",
    "logoName": "private.png"
   },
+  "cowhollow": {
+   "displayName": "cowhollow",
+   "logoName": "private.png"
+  },
   "create": {
    "displayName": "Anything",
    "logoName": "create-logo.png"
@@ -14228,6 +14232,10 @@
   },
   "halifax": {
    "displayName": "halifax",
+   "logoName": "private.png"
+  },
+  "hayes": {
+   "displayName": "hayes",
    "logoName": "private.png"
   },
   "hazel": {
@@ -14691,6 +14699,10 @@
   "orchids": {
    "displayName": "Orchids",
    "logoName": "orchids-logo.png"
+  },
+  "pacheights": {
+   "displayName": "pacheights",
+   "logoName": "private.png"
   },
   "paperinstruments": {
    "displayName": "Paper Instruments",

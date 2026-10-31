@@ -2,3 +2,6 @@
 {"type": "model_changed", "model": {"id": "plywood", "name": "Pika H3 Flex", "lab": "Pika", "provider": "pika", "active": true, "openSource": true, "arenas": ["video"], "price": {"video": {"perSecond": 0.02}}}, "changes": {"pricing": [null, {"video": {"perSecond": 0.02}}]}, "at": "2026-10-30T02:52:48Z"}
 {"type": "model_added", "model": {"id": "mischief-1", "name": "Mischief 1", "lab": "TBC", "provider": "tbc", "active": true, "openSource": false, "arenas": ["imagetovideo"], "price": {"video": {"perSecond": 0.01}}}, "at": "2026-10-30T20:41:31Z"}
 {"type": "provider_added", "provider": "tbc", "displayName": "TBC", "website": "https://www.tbc.co", "at": "2026-10-30T20:41:31Z"}
+{"type": "stealth_added", "codename": "hayes", "displayName": "hayes", "family": null, "family_siblings": [], "date_hint": null, "batch": ["cowhollow", "hayes", "pacheights"], "at": "2026-10-31T00:06:15Z"}
+{"type": "stealth_added", "codename": "cowhollow", "displayName": "cowhollow", "family": null, "family_siblings": [], "date_hint": null, "batch": ["cowhollow", "hayes", "pacheights"], "at": "2026-10-31T00:06:15Z"}
+{"type": "stealth_added", "codename": "pacheights", "displayName": "pacheights", "family": null, "family_siblings": [], "date_hint": null, "batch": ["cowhollow", "hayes", "pacheights"], "at": "2026-10-31T00:06:15Z"}
