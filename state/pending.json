@@ -192,5 +192,41 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Ideogram Vector** \u00b7 Ideogram (`ideogram-vector-1`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "svg"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.2"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-01T23:47:46Z",
+    "title": "\ud83c\udd95 New model: Ideogram Vector",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
