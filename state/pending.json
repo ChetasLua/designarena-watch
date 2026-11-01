@@ -166,5 +166,31 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Family",
+      "value": "trees/wood \u2014 other live slots: aspen, birch, cedar, cypress, hazelnut, hemlock, larch, maple, oak, redwood, sequoia, spruce, willow"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-01T02:08:45Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `alder`",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
