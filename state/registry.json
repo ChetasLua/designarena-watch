@@ -1005,6 +1005,48 @@
    "router": false,
    "vision": true
   },
+  "claude-opus-5-5-high": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_slides",
+     "agon_slides_html",
+     "agon_blender",
+     "agentic_gamedev",
+     "agon_webapps"
+    ]
+   },
+   "displayName": "Claude Opus 5.5 (high)",
+   "id": "claude-opus-5-5-high",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "modeOf": "claude-opus-5-5",
+   "openSource": false,
+   "provider": "anthropic",
+   "router": false,
+   "vision": true
+  },
+  "claude-opus-5-5-max": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_blender"
+    ]
+   },
+   "displayName": "Claude Opus 5.5 (max)",
+   "id": "claude-opus-5-5-max",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "modeOf": "claude-opus-5-5",
+   "openSource": false,
+   "provider": "anthropic",
+   "router": false,
+   "vision": true
+  },
   "claude-pptx-opus": {
    "active": false,
    "arenas": {
@@ -4819,6 +4861,29 @@
     "text",
     "image"
    ],
+   "openSource": false,
+   "provider": "openai",
+   "router": false,
+   "vision": true
+  },
+  "gpt-6.1-sol-max": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_slides",
+     "agon_slides_html",
+     "agon_blender",
+     "agentic_gamedev",
+     "agon_webapps"
+    ]
+   },
+   "displayName": "GPT-6.1 Sol (max)",
+   "id": "gpt-6.1-sol-max",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "modeOf": "gpt-6.1-sol",
    "openSource": false,
    "provider": "openai",
    "router": false,
@@ -11234,6 +11299,18 @@
     "output": 20
    }
   },
+  "claude-opus-5-5-high": {
+   "text": {
+    "input": 4,
+    "output": 20
+   }
+  },
+  "claude-opus-5-5-max": {
+   "text": {
+    "input": 4,
+    "output": 20
+   }
+  },
   "claude-pptx-sonnet": {
    "slides": {
     "perDeck": 0.5
@@ -12229,6 +12306,14 @@
    }
   },
   "gpt-6.1-sol": {
+   "text": {
+    "cacheWrite": 2.5,
+    "cachedInput": 0.1,
+    "input": 2,
+    "output": 10
+   }
+  },
+  "gpt-6.1-sol-max": {
    "text": {
     "cacheWrite": 2.5,
     "cachedInput": 0.1,

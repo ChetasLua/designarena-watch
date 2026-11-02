@@ -228,5 +228,80 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Claude Opus 5.5 (max)** \u00b7 Anthropic (`claude-opus-5-5-max`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $4/$20 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-02T10:06:06Z",
+    "title": "\ud83c\udd95 New model: Claude Opus 5.5 (max)",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Claude Opus 5.5 (high)** \u00b7 Anthropic (`claude-opus-5-5-high`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $4/$20 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-02T10:06:06Z",
+    "title": "\ud83c\udd95 New model: Claude Opus 5.5 (high)",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**GPT-6.1 Sol (max)** \u00b7 OpenAI (`gpt-6.1-sol-max`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $2/$10 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-02T10:06:06Z",
+    "title": "\ud83c\udd95 New model: GPT-6.1 Sol (max)",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
