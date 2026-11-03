@@ -13849,6 +13849,10 @@
    "logoName": "KandiskyLogo.jpeg",
    "website": "https://fal.ai"
   },
+  "alabama": {
+   "displayName": "alabama",
+   "logoName": "private.png"
+  },
   "alai": {
    "displayName": "Alai",
    "logoName": "alai-logo.png",
@@ -14022,6 +14026,10 @@
   },
   "calfhollow": {
    "displayName": "calfhollow",
+   "logoName": "private.png"
+  },
+  "california": {
+   "displayName": "california",
    "logoName": "private.png"
   },
   "callisto": {
@@ -15152,6 +15160,10 @@
    "displayName": "Tesslate",
    "logoName": "tesslate_logo.png",
    "website": "https://huggingface.co/Tesslate"
+  },
+  "texas": {
+   "displayName": "texas",
+   "logoName": "private.png"
   },
   "the_world": {
    "displayName": "The World",

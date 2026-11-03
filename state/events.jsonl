@@ -13,3 +13,6 @@
 {"type": "model_added", "model": {"id": "gpt-6.1-sol-max", "name": "GPT-6.1 Sol (max)", "lab": "OpenAI", "provider": "openai", "active": true, "openSource": false, "arenas": [], "price": {"text": {"input": 2, "output": 10, "cachedInput": 0.1, "cacheWrite": 2.5}}}, "at": "2026-11-02T10:06:06Z"}
 {"type": "stealth_added", "codename": "rowan", "displayName": "rowan", "family": null, "family_siblings": [], "date_hint": null, "batch": ["idaho", "rowan"], "at": "2026-11-03T02:28:17Z"}
 {"type": "stealth_added", "codename": "idaho", "displayName": "idaho", "family": "places (US states)", "family_siblings": ["vermont"], "date_hint": null, "batch": ["idaho", "rowan"], "at": "2026-11-03T02:28:17Z"}
+{"type": "stealth_added", "codename": "texas", "displayName": "texas", "family": "places (US states)", "family_siblings": ["idaho", "vermont"], "date_hint": null, "batch": ["alabama", "california", "texas"], "at": "2026-11-03T09:55:33Z"}
+{"type": "stealth_added", "codename": "california", "displayName": "california", "family": null, "family_siblings": [], "date_hint": null, "batch": ["alabama", "california", "texas"], "at": "2026-11-03T09:55:33Z"}
+{"type": "stealth_added", "codename": "alabama", "displayName": "alabama", "family": null, "family_siblings": [], "date_hint": null, "batch": ["alabama", "california", "texas"], "at": "2026-11-03T09:55:33Z"}
