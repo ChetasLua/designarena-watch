@@ -303,5 +303,53 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`idaho`, `rowan`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-03T02:28:17Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `rowan`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Family",
+      "value": "places (US states) \u2014 other live slots: vermont"
+     },
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`idaho`, `rowan`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-03T02:28:17Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `idaho`",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

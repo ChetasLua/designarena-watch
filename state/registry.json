@@ -14419,6 +14419,10 @@
    "logoName": "hyper3d.png",
    "website": "https://hyper3d.ai"
   },
+  "idaho": {
+   "displayName": "idaho",
+   "logoName": "private.png"
+  },
   "ideogram": {
    "displayName": "Ideogram",
    "logoName": "ideogram_new.png",
@@ -14968,6 +14972,10 @@
   "rork": {
    "displayName": "Rork",
    "logoName": "rork.png"
+  },
+  "rowan": {
+   "displayName": "rowan",
+   "logoName": "private.png"
   },
   "ruby": {
    "displayName": "Ruby",
