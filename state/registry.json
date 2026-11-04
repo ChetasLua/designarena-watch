@@ -13999,6 +13999,10 @@
    "displayName": "Blue Jay",
    "logoName": "private.png"
   },
+  "bonsai": {
+   "displayName": "bonsai",
+   "logoName": "private.png"
+  },
   "boogu": {
    "displayName": "Boogu",
    "logoName": "boogu.png"

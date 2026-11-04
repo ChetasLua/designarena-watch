@@ -16,3 +16,4 @@
 {"type": "stealth_added", "codename": "texas", "displayName": "texas", "family": "places (US states)", "family_siblings": ["idaho", "vermont"], "date_hint": null, "batch": ["alabama", "california", "texas"], "at": "2026-11-03T09:55:33Z"}
 {"type": "stealth_added", "codename": "california", "displayName": "california", "family": null, "family_siblings": [], "date_hint": null, "batch": ["alabama", "california", "texas"], "at": "2026-11-03T09:55:33Z"}
 {"type": "stealth_added", "codename": "alabama", "displayName": "alabama", "family": null, "family_siblings": [], "date_hint": null, "batch": ["alabama", "california", "texas"], "at": "2026-11-03T09:55:33Z"}
+{"type": "stealth_added", "codename": "bonsai", "displayName": "bonsai", "family": null, "family_siblings": [], "date_hint": null, "batch": ["bonsai"], "at": "2026-11-04T02:38:31Z"}
