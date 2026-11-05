@@ -3437,6 +3437,26 @@
     "generatesAudio": true
    }
   },
+  "gemini-omni-flash-1.2": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "video",
+     "imagetovideo",
+     "multitovideo",
+     "videotovideo",
+     "multimodaltovideo"
+    ]
+   },
+   "displayName": "Gemini Omni 1.2 Flash",
+   "id": "gemini-omni-flash-1.2",
+   "openSource": false,
+   "provider": "google",
+   "router": false,
+   "video": {
+    "generatesAudio": true
+   }
+  },
   "gemini-omni-flash-2": {
    "active": true,
    "arenas": {
@@ -6968,6 +6988,24 @@
    "openSource": false,
    "provider": "smallestai",
    "router": false
+  },
+  "lithium-1015": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps"
+    ]
+   },
+   "displayName": "Ling 3.2 Flash",
+   "id": "lithium-1015",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": false,
+   "provider": "antgroup",
+   "router": false,
+   "vision": true
   },
   "llama-3.1-nemotron-ultra-253b": {
    "active": false,
@@ -11192,7 +11230,7 @@
   },
   "alder": {
    "image": {
-    "perImage": 0.006
+    "perImage": 0.025
    },
    "text": {
     "cachedInput": 1.25,
@@ -12069,6 +12107,11 @@
   "gemini-omni-flash-1.1": {
    "video": {
     "perSecond": 0.1
+   }
+  },
+  "gemini-omni-flash-1.2": {
+   "video": {
+    "perSecond": 0.07
    }
   },
   "gemini-omni-flash-2": {
@@ -13699,7 +13742,7 @@
   },
   "rowan": {
    "image": {
-    "perImage": 0.053
+    "perImage": 0.211
    },
    "text": {
     "cachedInput": 1.25,
@@ -13834,7 +13877,7 @@
   },
   "spruce": {
    "image": {
-    "perImage": 0.006
+    "perImage": 0.025
    },
    "text": {
     "cachedInput": 1.25,
@@ -14731,10 +14774,6 @@
   },
   "lighthouse": {
    "displayName": "lighthouse",
-   "logoName": "private.png"
-  },
-  "lithium-1015": {
-   "displayName": "lithium-1015",
    "logoName": "private.png"
   },
   "lochness": {

@@ -668,5 +668,68 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 16096779,
+    "description": "**Ling 3.2 Flash** \u00b7 Ant Group (`lithium-1015`)",
+    "fields": [
+     {
+      "inline": true,
+      "name": "Lab",
+      "value": "Ant Group"
+     },
+     {
+      "inline": true,
+      "name": "Open weights",
+      "value": "False"
+     },
+     {
+      "inline": true,
+      "name": "Slot first seen",
+      "value": "2026-10-09T17:32:30Z .. 2026-10-18T07:03:47Z"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-05T23:38:02Z",
+    "title": "\ud83c\udfad Revealed: `lithium-1015` \u2192 Ling 3.2 Flash",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Gemini Omni 1.2 Flash** \u00b7 Google (`gemini-omni-flash-1.2`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "video, imagetovideo, multitovideo, videotovideo, multimodaltovideo"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "video perSecond 0.07"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-05T23:38:02Z",
+    "title": "\ud83c\udd95 New model: Gemini Omni 1.2 Flash",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
