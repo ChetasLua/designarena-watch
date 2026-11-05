@@ -74,6 +74,23 @@
    "provider": "alai",
    "router": false
   },
+  "alder": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "GPT Image 2.6 Flare (quality: low, complexity: low)",
+   "id": "alder",
+   "modeOf": "sequoia",
+   "openSource": false,
+   "provider": "openai",
+   "router": false
+  },
   "aleph2": {
    "active": false,
    "arenas": {
@@ -376,6 +393,23 @@
    "id": "bolt-mobile",
    "openSource": false,
    "provider": "stackblitz",
+   "router": false
+  },
+  "bonsai": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "GPT Image 2.6 Sunburst (quality: auto, complexity: high)",
+   "id": "bonsai",
+   "modeOf": "rowan",
+   "openSource": false,
+   "provider": "openai",
    "router": false
   },
   "boogu-image": {
@@ -6026,6 +6060,29 @@
    "provider": "tencent",
    "router": false
   },
+  "hy4": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg"
+    ]
+   },
+   "displayName": "Hy4",
+   "id": "hy4",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": true,
+   "provider": "tencent",
+   "router": false,
+   "vision": true
+  },
   "ideogram-v3": {
    "active": false,
    "arenas": {
@@ -9801,6 +9858,22 @@
    "provider": "rork",
    "router": false
   },
+  "rowan": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "GPT Image 2.6 Sunburst (quality: max, complexity: high)",
+   "id": "rowan",
+   "openSource": false,
+   "provider": "openai",
+   "router": false
+  },
   "same.new": {
    "active": true,
    "arenas": {
@@ -10051,6 +10124,22 @@
    "provider": "bytedance",
    "router": false
   },
+  "sequoia": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "GPT Image 2.6 Flare (quality: auto, complexity: high)",
+   "id": "sequoia",
+   "openSource": false,
+   "provider": "openai",
+   "router": false
+  },
   "silk-mulberry-1.5": {
    "active": true,
    "arenas": {
@@ -10240,6 +10329,23 @@
    "video": {
     "generatesAudio": true
    }
+  },
+  "spruce": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "GPT Image 2.6 Flare (quality: low, complexity: medium)",
+   "id": "spruce",
+   "modeOf": "sequoia",
+   "openSource": false,
+   "provider": "openai",
+   "router": false
   },
   "stable_audio_25": {
    "active": true,
@@ -12624,6 +12730,12 @@
     "output": 0.55
    }
   },
+  "hy4": {
+   "text": {
+    "input": 0.834,
+    "output": 2.501
+   }
+  },
   "ideogram-v3": {
    "image": {
     "perImage": 0.06
@@ -13859,10 +13971,6 @@
    "logoName": "alai-logo.png",
    "website": "https://getalai.com"
   },
-  "alder": {
-   "displayName": "alder",
-   "logoName": "private.png"
-  },
   "alibaba": {
    "displayName": "Alibaba",
    "logoName": "qwenlogo.png",
@@ -13998,10 +14106,6 @@
   },
   "bluejay": {
    "displayName": "Blue Jay",
-   "logoName": "private.png"
-  },
-  "bonsai": {
-   "displayName": "bonsai",
    "logoName": "private.png"
   },
   "boogu": {
@@ -14986,10 +15090,6 @@
    "displayName": "Rork",
    "logoName": "rork.png"
   },
-  "rowan": {
-   "displayName": "rowan",
-   "logoName": "private.png"
-  },
   "ruby": {
    "displayName": "Ruby",
    "logoName": "private.png"
@@ -15040,10 +15140,6 @@
    "displayName": "sentry",
    "logoName": "private.png"
   },
-  "sequoia": {
-   "displayName": "sequoia",
-   "logoName": "private.png"
-  },
   "siege-tank": {
    "displayName": "Siege Tank",
    "logoName": "private.png"
@@ -15088,10 +15184,6 @@
   },
   "sprinter": {
    "displayName": "Sprinter",
-   "logoName": "private.png"
-  },
-  "spruce": {
-   "displayName": "spruce",
    "logoName": "private.png"
   },
   "stackblitz": {
