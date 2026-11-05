@@ -9015,6 +9015,20 @@
    "provider": "alibaba",
    "router": false
   },
+  "qwen-image-3.0-pro": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "Qwen Image 3.0 Pro",
+   "id": "qwen-image-3.0-pro",
+   "openSource": false,
+   "provider": "alibaba",
+   "router": false
+  },
   "qwen-image-edit": {
    "active": true,
    "arenas": {
@@ -11176,6 +11190,16 @@
     "output": 15
    }
   },
+  "alder": {
+   "image": {
+    "perImage": 0.006
+   },
+   "text": {
+    "cachedInput": 1.25,
+    "input": 5,
+    "output": 30
+   }
+  },
   "aleph2": {
    "video": {
     "perSecond": 0.28
@@ -11240,6 +11264,16 @@
    "text": {
     "input": 0.25,
     "output": 1
+   }
+  },
+  "bonsai": {
+   "image": {
+    "perImage": 0.053
+   },
+   "text": {
+    "cachedInput": 1.25,
+    "input": 5,
+    "output": 30
    }
   },
   "boogu-image": {
@@ -13449,6 +13483,11 @@
     "perImage": 0.075
    }
   },
+  "qwen-image-3.0-pro": {
+   "image": {
+    "perImage": 0.075
+   }
+  },
   "qwen-image-edit": {
    "image": {
     "perImage": 0.03
@@ -13658,6 +13697,16 @@
     "output": 14
    }
   },
+  "rowan": {
+   "image": {
+    "perImage": 0.053
+   },
+   "text": {
+    "cachedInput": 1.25,
+    "input": 5,
+    "output": 30
+   }
+  },
   "seedance-1.0-lite-ref": {
    "video": {
     "perSecond": 0.02
@@ -13733,6 +13782,16 @@
     "perImage": 0.04
    }
   },
+  "sequoia": {
+   "image": {
+    "perImage": 0.053
+   },
+   "text": {
+    "cachedInput": 1.25,
+    "input": 5,
+    "output": 30
+   }
+  },
   "silk-mulberry-1.5": {
    "text": {
     "input": 15,
@@ -13771,6 +13830,16 @@
   "sora-2-pro": {
    "video": {
     "perSecond": 0.5
+   }
+  },
+  "spruce": {
+   "image": {
+    "perImage": 0.006
+   },
+   "text": {
+    "cachedInput": 1.25,
+    "input": 5,
+    "output": 30
    }
   },
   "step-3.7-flash": {

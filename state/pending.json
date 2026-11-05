@@ -632,5 +632,41 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Qwen Image 3.0 Pro** \u00b7 Alibaba (`qwen-image-3.0-pro`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "image, imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.075"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-05T10:25:14Z",
+    "title": "\ud83c\udd95 New model: Qwen Image 3.0 Pro",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
