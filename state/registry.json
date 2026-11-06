@@ -15428,6 +15428,10 @@
    "logoName": "upstage-logo.jpg",
    "website": "https://www.upstage.ai"
   },
+  "utah": {
+   "displayName": "utah",
+   "logoName": "private.png"
+  },
   "vanilla": {
    "displayName": "vanilla",
    "logoName": "private.png"
