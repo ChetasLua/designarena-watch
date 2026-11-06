@@ -444,6 +444,28 @@
     "generatesAudio": true
    }
   },
+  "california": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps"
+    ],
+    "models": [
+     "website",
+     "gamedev",
+     "3d"
+    ]
+   },
+   "displayName": "Inkling 2 Small",
+   "id": "california",
+   "inputModalities": [
+    "text"
+   ],
+   "openSource": true,
+   "provider": "thinkingmachines",
+   "router": false,
+   "vision": false
+  },
   "camellia": {
    "active": false,
    "arenas": {
@@ -14247,10 +14269,6 @@
   },
   "calfhollow": {
    "displayName": "calfhollow",
-   "logoName": "private.png"
-  },
-  "california": {
-   "displayName": "california",
    "logoName": "private.png"
   },
   "callisto": {
