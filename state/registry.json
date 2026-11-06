@@ -448,7 +448,8 @@
    "active": true,
    "arenas": {
     "agents": [
-     "agon_webapps"
+     "agon_webapps",
+     "agon_slides"
     ],
     "models": [
      "website",
@@ -11346,6 +11347,13 @@
     "perSecond": 0.045
    }
   },
+  "california": {
+   "text": {
+    "cachedInput": 0.03,
+    "input": 0.3,
+    "output": 1
+   }
+  },
   "candycane": {
    "text": {
     "input": 1.75,
@@ -15477,6 +15485,10 @@
   },
   "warp": {
    "displayName": "warp",
+   "logoName": "private.png"
+  },
+  "washington": {
+   "displayName": "washington",
    "logoName": "private.png"
   },
   "waterfront": {
