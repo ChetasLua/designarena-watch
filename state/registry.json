@@ -746,6 +746,43 @@
    "router": false,
    "vision": true
   },
+  "claude-fable-5-2": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "agon_slides",
+     "agon_slides_html",
+     "agon_dataviz",
+     "agon_godot",
+     "agentic_gamedev",
+     "agentic_3d",
+     "fullstack",
+     "fullstack_gamedev",
+     "mobileapps",
+     "nativeapps"
+    ],
+    "models": [
+     "website",
+     "3d",
+     "dataviz",
+     "gamedev",
+     "uicomponent",
+     "svg",
+     "ascii"
+    ]
+   },
+   "displayName": "Claude Fable 5.2",
+   "id": "claude-fable-5-2",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": false,
+   "provider": "anthropic",
+   "router": false,
+   "vision": true
+  },
   "claude-haiku-4-5": {
    "active": false,
    "arenas": {
@@ -6126,6 +6163,31 @@
    "router": false,
    "vision": true
   },
+  "idaho": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg",
+     "ascii"
+    ]
+   },
+   "displayName": "Muse Ember",
+   "id": "idaho",
+   "inputModalities": [
+    "text",
+    "image",
+    "video"
+   ],
+   "openSource": false,
+   "provider": "meta",
+   "router": false,
+   "vision": true
+  },
   "ideogram-v3": {
    "active": false,
    "arenas": {
@@ -11430,6 +11492,14 @@
     "output": 50
    }
   },
+  "claude-fable-5-2": {
+   "text": {
+    "cacheWrite": 10,
+    "cachedInput": 0.2,
+    "input": 8,
+    "output": 40
+   }
+  },
   "claude-haiku-4-5": {
    "text": {
     "input": 1,
@@ -12841,6 +12911,13 @@
    "text": {
     "input": 0.834,
     "output": 2.501
+   }
+  },
+  "idaho": {
+   "text": {
+    "cachedInput": 0.004,
+    "input": 0.1,
+    "output": 0.5
    }
   },
   "ideogram-v3": {
@@ -14673,10 +14750,6 @@
    "displayName": "Hyper3D",
    "logoName": "hyper3d.png",
    "website": "https://hyper3d.ai"
-  },
-  "idaho": {
-   "displayName": "idaho",
-   "logoName": "private.png"
   },
   "ideogram": {
    "displayName": "Ideogram",
