@@ -917,5 +917,85 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**MiniMax H3-Image** \u00b7 MiniMax (`minimax-h3-image`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "image, imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.023"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-10T20:19:53Z",
+    "title": "\ud83c\udd95 New model: MiniMax H3-Image",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Gemini 4 Carbon** \u00b7 Google (`gemini-4-carbon`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, uicomponent, gamedev, dataviz, 3d, svg"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $2/$10 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-10T20:19:53Z",
+    "title": "\ud83c\udd95 New model: Gemini 4 Carbon",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Claude Fable 5.2** \u00b7 Anthropic (`claude-fable-5-2`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-10T20:19:53Z",
+    "title": "\u270f\ufe0f Model changed: Claude Fable 5.2",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

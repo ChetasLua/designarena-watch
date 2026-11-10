@@ -747,7 +747,7 @@
    "vision": true
   },
   "claude-fable-5-2": {
-   "active": true,
+   "active": false,
    "arenas": {
     "agents": [
      "agon_webapps",
@@ -3465,6 +3465,45 @@
    },
    "displayName": "Gemini 4 Argon",
    "id": "gemini-4-argon",
+   "inputModalities": [
+    "text",
+    "image",
+    "video",
+    "audio",
+    "file"
+   ],
+   "openSource": false,
+   "provider": "google",
+   "router": false,
+   "vision": true
+  },
+  "gemini-4-carbon": {
+   "active": false,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "agon_slides",
+     "agon_slides_html",
+     "agon_dataviz",
+     "agon_godot",
+     "agentic_gamedev",
+     "agentic_3d",
+     "fullstack",
+     "fullstack_gamedev",
+     "mobileapps",
+     "nativeapps"
+    ],
+    "models": [
+     "website",
+     "uicomponent",
+     "gamedev",
+     "dataviz",
+     "3d",
+     "svg"
+    ]
+   },
+   "displayName": "Gemini 4 Carbon",
+   "id": "gemini-4-carbon",
    "inputModalities": [
     "text",
     "image",
@@ -7836,6 +7875,20 @@
     "generatesAudio": true
    }
   },
+  "minimax-h3-image": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "MiniMax H3-Image",
+   "id": "minimax-h3-image",
+   "openSource": true,
+   "provider": "minimax",
+   "router": false
+  },
   "minimax-m2-stable": {
    "active": false,
    "arenas": {
@@ -12204,6 +12257,13 @@
     "output": 10
    }
   },
+  "gemini-4-carbon": {
+   "text": {
+    "cachedInput": 0.1,
+    "input": 2,
+    "output": 10
+   }
+  },
   "gemini-omni-flash-1.1": {
    "video": {
     "perSecond": 0.1
@@ -13297,6 +13357,11 @@
   "minimax-h3": {
    "video": {
     "perSecond": 0.13
+   }
+  },
+  "minimax-h3-image": {
+   "image": {
+    "perImage": 0.023
    }
   },
   "minimax-m2-stable": {
