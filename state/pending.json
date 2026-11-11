@@ -997,5 +997,42 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-11T00:43:16Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `arizona`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Gemini 4 Carbon** \u00b7 Google (`gemini-4-carbon`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "False \u2192 True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-11T00:43:16Z",
+    "title": "\u270f\ufe0f Model changed: Gemini 4 Carbon",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

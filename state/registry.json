@@ -3478,7 +3478,7 @@
    "vision": true
   },
   "gemini-4-carbon": {
-   "active": false,
+   "active": true,
    "arenas": {
     "agents": [
      "agon_webapps",
@@ -14312,6 +14312,10 @@
   },
   "argon": {
    "displayName": "argon",
+   "logoName": "private.png"
+  },
+  "arizona": {
+   "displayName": "arizona",
    "logoName": "private.png"
   },
   "aspen": {
