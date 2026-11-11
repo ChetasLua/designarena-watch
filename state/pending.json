@@ -1034,5 +1034,31 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**Claude Fable 5.2** \u00b7 Anthropic (`claude-fable-5-2`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "False \u2192 True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-11T07:12:21Z",
+    "title": "\u270f\ufe0f Model changed: Claude Fable 5.2",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

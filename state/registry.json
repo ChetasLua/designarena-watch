@@ -747,7 +747,7 @@
    "vision": true
   },
   "claude-fable-5-2": {
-   "active": false,
+   "active": true,
    "arenas": {
     "agents": [
      "agon_webapps",
