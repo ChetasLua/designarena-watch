@@ -1231,5 +1231,69 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T23:47:54Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `wyoming`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Gemini 4 Hydrogen** \u00b7 Google (`gemini-4-hydrogen`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, uicomponent, gamedev, dataviz, 3d, svg, ascii"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $1.5/$7.5 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T23:47:54Z",
+    "title": "\ud83c\udd95 New model: Gemini 4 Hydrogen",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Recraft V4.1 Flash** \u00b7 Recraft (`york`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T23:47:54Z",
+    "title": "\u270f\ufe0f Model changed: Recraft V4.1 Flash",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

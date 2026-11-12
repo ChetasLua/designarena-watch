@@ -3540,6 +3540,46 @@
    "router": false,
    "vision": true
   },
+  "gemini-4-hydrogen": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "agon_slides",
+     "agon_slides_html",
+     "agon_dataviz",
+     "agon_godot",
+     "agentic_gamedev",
+     "agentic_3d",
+     "fullstack",
+     "fullstack_gamedev",
+     "mobileapps",
+     "nativeapps"
+    ],
+    "models": [
+     "website",
+     "uicomponent",
+     "gamedev",
+     "dataviz",
+     "3d",
+     "svg",
+     "ascii"
+    ]
+   },
+   "displayName": "Gemini 4 Hydrogen",
+   "id": "gemini-4-hydrogen",
+   "inputModalities": [
+    "text",
+    "image",
+    "video",
+    "audio",
+    "file"
+   ],
+   "openSource": false,
+   "provider": "google",
+   "router": false,
+   "vision": true
+  },
   "gemini-omni-flash-1.1": {
    "active": true,
    "arenas": {
@@ -11388,7 +11428,7 @@
    "vision": true
   },
   "york": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "image",
@@ -12338,6 +12378,13 @@
     "cachedInput": 0.1,
     "input": 2,
     "output": 10
+   }
+  },
+  "gemini-4-hydrogen": {
+   "text": {
+    "cachedInput": 0.075,
+    "input": 1.5,
+    "output": 7.5
    }
   },
   "gemini-omni-flash-1.1": {
@@ -13294,6 +13341,12 @@
    "text": {
     "input": 19.5,
     "output": 0
+   }
+  },
+  "lithium-1015": {
+   "text": {
+    "input": 0.3,
+    "output": 0.9
    }
   },
   "longcat-2.0": {
@@ -15752,6 +15805,10 @@
    "displayName": "World Labs",
    "logoName": "worldlabs.png",
    "website": "https://worldlabs.ai"
+  },
+  "wyoming": {
+   "displayName": "wyoming",
+   "logoName": "private.png"
   },
   "xai": {
    "displayName": "xAI",
