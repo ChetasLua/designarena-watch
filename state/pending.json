@@ -1060,5 +1060,133 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T02:49:52Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `plover`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Seedream 5.5** \u00b7 ByteDance (`seedream-5.5`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "logo, image, graphicdesign"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.04"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T02:49:52Z",
+    "title": "\ud83c\udd95 New model: Seedream 5.5",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Seedream 5.5 Edit** \u00b7 ByteDance (`seedream-5.5-edit`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.04"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T02:49:52Z",
+    "title": "\ud83c\udd95 New model: Seedream 5.5 Edit",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Wan 2.2 A14B** \u00b7 Alibaba (`wan-2.2-a14b`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "imagetovideo"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "video perSecond 0.08"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T02:49:52Z",
+    "title": "\ud83c\udd95 New model: Wan 2.2 A14B",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**ERNIE 5.5 Flash Preview** \u00b7 Baidu (`ernie-5-5-flash-preview`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, gamedev, 3d, dataviz, uicomponent, svg"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $0/$0 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T02:49:52Z",
+    "title": "\ud83c\udd95 New model: ERNIE 5.5 Flash Preview",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

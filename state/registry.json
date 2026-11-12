@@ -1107,7 +1107,9 @@
      "agon_slides_html",
      "agon_blender",
      "agentic_gamedev",
-     "agon_webapps"
+     "agon_webapps",
+     "fullstack",
+     "agon_godot"
     ]
    },
    "displayName": "Claude Opus 5.5 (high)",
@@ -2280,6 +2282,28 @@
    "openSource": false,
    "provider": "emergent",
    "router": false
+  },
+  "ernie-5-5-flash-preview": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg"
+    ]
+   },
+   "displayName": "ERNIE 5.5 Flash Preview",
+   "id": "ernie-5-5-flash-preview",
+   "inputModalities": [
+    "text"
+   ],
+   "openSource": true,
+   "provider": "baidu",
+   "router": false,
+   "vision": false
   },
   "ernie-image": {
    "active": true,
@@ -5027,7 +5051,9 @@
      "agon_slides_html",
      "agon_blender",
      "agentic_gamedev",
-     "agon_webapps"
+     "agon_webapps",
+     "fullstack",
+     "agon_godot"
     ]
    },
    "displayName": "GPT-6.1 Sol (max)",
@@ -10247,6 +10273,34 @@
    "provider": "bytedance",
    "router": false
   },
+  "seedream-5.5": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "logo",
+     "image",
+     "graphicdesign"
+    ]
+   },
+   "displayName": "Seedream 5.5",
+   "id": "seedream-5.5",
+   "openSource": false,
+   "provider": "bytedance",
+   "router": false
+  },
+  "seedream-5.5-edit": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "imagetoimage"
+    ]
+   },
+   "displayName": "Seedream 5.5 Edit",
+   "id": "seedream-5.5-edit",
+   "openSource": false,
+   "provider": "bytedance",
+   "router": false
+  },
   "seedream-lite-5.0": {
    "active": true,
    "arenas": {
@@ -11078,6 +11132,22 @@
    "openSource": false,
    "provider": "mistral",
    "router": false
+  },
+  "wan-2.2-a14b": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "imagetovideo"
+    ]
+   },
+   "displayName": "Wan 2.2 A14B",
+   "id": "wan-2.2-a14b",
+   "openSource": true,
+   "provider": "alibaba",
+   "router": false,
+   "video": {
+    "generatesAudio": false
+   }
   },
   "wan-2.2-t2v-a14b": {
    "active": false,
@@ -11945,6 +12015,12 @@
   "elevenlabs_eleven_v4_turbo": {
    "text": {
     "input": 50,
+    "output": 0
+   }
+  },
+  "ernie-5-5-flash-preview": {
+   "text": {
+    "input": 0,
     "output": 0
    }
   },
@@ -13972,6 +14048,16 @@
     "perImage": 0.045
    }
   },
+  "seedream-5.5": {
+   "image": {
+    "perImage": 0.04
+   }
+  },
+  "seedream-5.5-edit": {
+   "image": {
+    "perImage": 0.04
+   }
+  },
   "seedream-lite-5.0": {
    "image": {
     "perImage": 0.035
@@ -14156,6 +14242,11 @@
    "text": {
     "input": 13,
     "output": 0
+   }
+  },
+  "wan-2.2-a14b": {
+   "video": {
+    "perSecond": 0.08
    }
   },
   "wan-2.2-t2v-a14b": {
@@ -15261,6 +15352,10 @@
   },
   "plaza": {
    "displayName": "plaza",
+   "logoName": "private.png"
+  },
+  "plover": {
+   "displayName": "plover",
    "logoName": "private.png"
   },
   "pluto": {
