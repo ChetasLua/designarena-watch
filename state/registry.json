@@ -396,7 +396,7 @@
    "router": false
   },
   "bonsai": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "image",
@@ -10075,7 +10075,7 @@
    "router": false
   },
   "rowan": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "image",

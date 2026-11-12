@@ -1188,5 +1188,48 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**GPT Image 2.6 Sunburst (quality: max, complexity: high)** \u00b7 OpenAI (`rowan`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T18:28:36Z",
+    "title": "\u270f\ufe0f Model changed: GPT Image 2.6 Sunburst (quality: max, complexity: high)",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**GPT Image 2.6 Sunburst (quality: auto, complexity: high)** \u00b7 OpenAI (`bonsai`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-12T18:28:36Z",
+    "title": "\u270f\ufe0f Model changed: GPT Image 2.6 Sunburst (quality: auto, complexity: high)",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
