@@ -11382,6 +11382,19 @@
    "provider": "sourceful",
    "router": true
   },
+  "wyoming": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image"
+    ]
+   },
+   "displayName": "Recraft V4.1 Flash V2",
+   "id": "wyoming",
+   "openSource": false,
+   "provider": "recraft",
+   "router": false
+  },
   "yoda": {
    "active": true,
    "arenas": {
@@ -14354,6 +14367,11 @@
     "perSecond": 0.100347
    }
   },
+  "wyoming": {
+   "image": {
+    "perImage": 0.007
+   }
+  },
   "yoda": {
    "text": {
     "cachedInput": 0.3,
@@ -15801,10 +15819,6 @@
    "displayName": "World Labs",
    "logoName": "worldlabs.png",
    "website": "https://worldlabs.ai"
-  },
-  "wyoming": {
-   "displayName": "wyoming",
-   "logoName": "private.png"
   },
   "xai": {
    "displayName": "xAI",
