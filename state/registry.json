@@ -12352,9 +12352,9 @@
   },
   "gemini-3.6-flash": {
    "text": {
-    "cachedInput": 0.15,
-    "input": 1.5,
-    "output": 7.5
+    "cachedInput": 0.075,
+    "input": 0.75,
+    "output": 3.75
    }
   },
   "gemini-3.7-flash": {
@@ -12725,16 +12725,16 @@
    "text": {
     "cacheWrite": 5,
     "cachedInput": 0.4,
-    "input": 5,
-    "output": 30
+    "input": 4,
+    "output": 20
    }
   },
   "gpt-5.6-sol-xhigh": {
    "text": {
     "cacheWrite": 5,
     "cachedInput": 0.4,
-    "input": 5,
-    "output": 30
+    "input": 4,
+    "output": 20
    }
   },
   "gpt-5.6-terra": {
@@ -13412,8 +13412,8 @@
    "text": {
     "cacheWrite": 5,
     "cachedInput": 0.4,
-    "input": 5,
-    "output": 30
+    "input": 4,
+    "output": 20
    }
   },
   "magnolia": {
