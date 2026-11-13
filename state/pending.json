@@ -1295,5 +1295,24 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**Qwen3 TTS Flash** \u00b7 active: True \u2192 False\n**Mercury 2** \u00b7 active: True \u2192 False\n**Muse Spark 1.1** \u00b7 arenas: \u22123d,dataviz,gamedev,svg,uicomponent,website\n**Ling-3.1-flash** \u00b7 active: True \u2192 False\n**Mistral Large 4 Preview** \u00b7 displayName: Mistral Large 4 \u2192 Mistral Large 4 Preview\n**Mistral Large 4 Preview** \u00b7 displayName: Mistral Large 4 \u2192 Mistral Large 4 Preview\n**Mercury 3** \u00b7 active: True \u2192 False\n**Ideogram Vector** \u00b7 active: True \u2192 False",
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-13T03:39:19Z",
+    "title": "\u270f\ufe0f 8 model rows changed",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

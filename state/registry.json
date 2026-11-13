@@ -2349,14 +2349,6 @@
      "fullstack_gamedev",
      "mobileapps",
      "nativeapps"
-    ],
-    "models": [
-     "website",
-     "gamedev",
-     "3d",
-     "dataviz",
-     "uicomponent",
-     "svg"
     ]
    },
    "displayName": "Muse Spark 1.1",
@@ -6322,7 +6314,7 @@
    "router": false
   },
   "ideogram-vector-1": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "svg"
@@ -7797,7 +7789,7 @@
    "router": false
   },
   "mercury-2": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "website",
@@ -7816,7 +7808,7 @@
    "router": false
   },
   "mercury-3": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "website",
@@ -8222,7 +8214,7 @@
      "ascii"
     ]
    },
-   "displayName": "Mistral Large 4",
+   "displayName": "Mistral Large 4 Preview",
    "id": "mistral-large-4-0",
    "inputModalities": [
     "text",
@@ -8246,7 +8238,7 @@
      "ascii"
     ]
    },
-   "displayName": "Mistral Large 4",
+   "displayName": "Mistral Large 4 Preview",
    "id": "mistral-large-4-0-high",
    "inputModalities": [
     "text",
@@ -8731,7 +8723,7 @@
    "router": false
   },
   "new-mexico": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "website",
@@ -9474,7 +9466,7 @@
    "router": false
   },
   "qwen3-tts": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "tts"
