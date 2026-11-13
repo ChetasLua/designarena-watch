@@ -1314,5 +1314,36 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Family",
+      "value": "elements \u2014 other live slots: argon, krypton, xenon, zinc"
+     },
+     {
+      "inline": true,
+      "name": "Hint",
+      "value": "suffix 1112 looks like Nov 12"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-13T11:34:21Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `lithium-1112`",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
