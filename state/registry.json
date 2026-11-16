@@ -14856,6 +14856,10 @@
    "displayName": "Floot",
    "logoName": "floot-logo.png"
   },
+  "florida": {
+   "displayName": "florida",
+   "logoName": "private.png"
+  },
   "freya": {
    "displayName": "Freya",
    "logoName": "freya_logo.svg"
