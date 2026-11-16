@@ -9233,22 +9233,6 @@
    "provider": "alibaba",
    "router": false
   },
-  "qwen-image-3": {
-   "active": true,
-   "arenas": {
-    "models": [
-     "image",
-     "logo",
-     "graphicdesign",
-     "imagetoimage"
-    ]
-   },
-   "displayName": "Qwen Image 3 Pro",
-   "id": "qwen-image-3",
-   "openSource": false,
-   "provider": "alibaba",
-   "router": false
-  },
   "qwen-image-3.0-pro": {
    "active": true,
    "arenas": {
@@ -11368,6 +11352,43 @@
    "video": {
     "generatesAudio": false
    }
+  },
+  "washington": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "agon_slides",
+     "agon_slides_html",
+     "agon_dataviz",
+     "agon_godot",
+     "agentic_gamedev",
+     "agentic_3d",
+     "fullstack",
+     "fullstack_gamedev",
+     "mobileapps",
+     "nativeapps"
+    ],
+    "models": [
+     "website",
+     "3d",
+     "dataviz",
+     "gamedev",
+     "uicomponent",
+     "svg",
+     "ascii"
+    ]
+   },
+   "displayName": "Qwen4-Max",
+   "id": "washington",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": false,
+   "provider": "alibaba",
+   "router": false,
+   "vision": true
   },
   "winterfall": {
    "active": false,
@@ -13827,11 +13848,6 @@
     "perImage": 0.075
    }
   },
-  "qwen-image-3": {
-   "image": {
-    "perImage": 0.075
-   }
-  },
   "qwen-image-3.0-pro": {
    "image": {
     "perImage": 0.075
@@ -14365,6 +14381,13 @@
   "wan2.1-t2v-14b": {
    "video": {
     "perSecond": 0.100347
+   }
+  },
+  "washington": {
+   "text": {
+    "cachedInput": 0.075,
+    "input": 1.5,
+    "output": 4.5
    }
   },
   "wyoming": {
@@ -15793,10 +15816,6 @@
   },
   "warp": {
    "displayName": "warp",
-   "logoName": "private.png"
-  },
-  "washington": {
-   "displayName": "washington",
    "logoName": "private.png"
   },
   "waterfront": {
