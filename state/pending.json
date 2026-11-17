@@ -1468,5 +1468,75 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Family",
+      "value": "places (US states) \u2014 other live slots: montana, texas, utah, vermont"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T00:24:39Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `virginia`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Hy4 Flash** \u00b7 Tencent (`hy4-flash`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, gamedev, 3d, dataviz, uicomponent, svg"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $0.07/$0.281 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T00:24:39Z",
+    "title": "\ud83c\udd95 New model: Hy4 Flash",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Ideogram Vector** \u00b7 Ideogram (`ideogram-vector-1`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "False \u2192 True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T00:24:39Z",
+    "title": "\u270f\ufe0f Model changed: Ideogram Vector",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
