@@ -463,7 +463,9 @@
    "arenas": {
     "agents": [
      "agon_webapps",
-     "agon_slides"
+     "agon_slides",
+     "mobileapps",
+     "nativeapps"
     ],
     "models": [
      "website",
@@ -2499,6 +2501,20 @@
    "id": "floot-08-08",
    "openSource": false,
    "provider": "floot",
+   "router": false
+  },
+  "florida": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "Kling Image 4.0",
+   "id": "florida",
+   "openSource": false,
+   "provider": "klingai",
    "router": false
   },
   "flux-2-dev": {
@@ -5143,6 +5159,82 @@
    "router": false,
    "vision": true
   },
+  "gpt-6.2-astra": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "fullstack",
+     "agon_godot",
+     "agon_slides",
+     "agon_slides_html",
+     "agentic_gamedev",
+     "fullstack_gamedev",
+     "agentic_3d",
+     "agon_dataviz",
+     "agon_blender",
+     "nativeapps",
+     "mobileapps"
+    ],
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg",
+     "ascii"
+    ]
+   },
+   "displayName": "GPT-6.2 Astra",
+   "id": "gpt-6.2-astra",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": false,
+   "provider": "openai",
+   "router": false,
+   "vision": true
+  },
+  "gpt-6.2-sol": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "fullstack",
+     "agon_godot",
+     "agon_slides",
+     "agon_slides_html",
+     "agentic_gamedev",
+     "fullstack_gamedev",
+     "agentic_3d",
+     "agon_dataviz",
+     "agon_blender",
+     "nativeapps",
+     "mobileapps"
+    ],
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg",
+     "ascii"
+    ]
+   },
+   "displayName": "GPT-6.2 Sol",
+   "id": "gpt-6.2-sol",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": false,
+   "provider": "openai",
+   "router": false,
+   "vision": true
+  },
   "gpt-image-1": {
    "active": false,
    "arenas": {
@@ -7696,6 +7788,38 @@
    },
    "displayName": "MAI-Image-2.6 Flash",
    "id": "mai-image-2.6-flash",
+   "openSource": false,
+   "provider": "microsoft",
+   "router": false
+  },
+  "mai-image-2.7": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "MAI-Image-2.7",
+   "id": "mai-image-2.7",
+   "openSource": false,
+   "provider": "microsoft",
+   "router": false
+  },
+  "mai-image-2.7-flash": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "logo",
+     "graphicdesign",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "MAI-Image-2.7 Flash",
+   "id": "mai-image-2.7-flash",
    "openSource": false,
    "provider": "microsoft",
    "router": false
@@ -12177,6 +12301,12 @@
     "output": 0
    }
   },
+  "florida": {
+   "image": {
+    "perImage": 0.063,
+    "perImageEdit": 0.066
+   }
+  },
   "flux-2-dev": {
    "image": {
     "perImage": 0.03
@@ -12864,6 +12994,22 @@
     "output": 5
    }
   },
+  "gpt-6.2-astra": {
+   "text": {
+    "cacheWrite": 10,
+    "cachedInput": 0.4,
+    "input": 8,
+    "output": 40
+   }
+  },
+  "gpt-6.2-sol": {
+   "text": {
+    "cacheWrite": 2.5,
+    "cachedInput": 0.1,
+    "input": 2,
+    "output": 10
+   }
+  },
   "gpt-image-1": {
    "image": {
     "perImage": 0.042
@@ -13503,6 +13649,16 @@
   "mai-image-2.6-flash": {
    "image": {
     "perImage": 0.019
+   }
+  },
+  "mai-image-2.7": {
+   "image": {
+    "perImage": 0.035
+   }
+  },
+  "mai-image-2.7-flash": {
+   "image": {
+    "perImage": 0.01
    }
   },
   "mai-voice-2": {
@@ -14899,10 +15055,6 @@
   "floot": {
    "displayName": "Floot",
    "logoName": "floot-logo.png"
-  },
-  "florida": {
-   "displayName": "florida",
-   "logoName": "private.png"
   },
   "freya": {
    "displayName": "Freya",

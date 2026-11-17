@@ -1595,5 +1595,159 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 16096779,
+    "description": "**Kling Image 4.0** \u00b7 KlingAI (`florida`)",
+    "fields": [
+     {
+      "inline": true,
+      "name": "Lab",
+      "value": "KlingAI"
+     },
+     {
+      "inline": true,
+      "name": "Open weights",
+      "value": "False"
+     },
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "image, imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.063, perImageEdit 0.066"
+     },
+     {
+      "inline": true,
+      "name": "Slot first seen",
+      "value": "2026-11-16T16:29:17Z"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T23:57:41Z",
+    "title": "\ud83c\udfad Revealed: `florida` \u2192 Kling Image 4.0",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**GPT-6.2 Astra** \u00b7 OpenAI (`gpt-6.2-astra`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, gamedev, 3d, dataviz, uicomponent, svg, ascii"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $8/$40 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T23:57:41Z",
+    "title": "\ud83c\udd95 New model: GPT-6.2 Astra",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**GPT-6.2 Sol** \u00b7 OpenAI (`gpt-6.2-sol`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, gamedev, 3d, dataviz, uicomponent, svg, ascii"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $2/$10 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T23:57:41Z",
+    "title": "\ud83c\udd95 New model: GPT-6.2 Sol",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**MAI-Image-2.7** \u00b7 Microsoft (`mai-image-2.7`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "image, logo, graphicdesign, imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.035"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T23:57:41Z",
+    "title": "\ud83c\udd95 New model: MAI-Image-2.7",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**MAI-Image-2.7 Flash** \u00b7 Microsoft (`mai-image-2.7-flash`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "image, logo, graphicdesign, imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.01"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T23:57:41Z",
+    "title": "\ud83c\udd95 New model: MAI-Image-2.7 Flash",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
