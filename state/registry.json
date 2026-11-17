@@ -61,6 +61,20 @@
    "router": false,
    "vision": true
   },
+  "alabama": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "SenseNova U1 Pro",
+   "id": "alabama",
+   "openSource": false,
+   "provider": "sensenova",
+   "router": false
+  },
   "alai": {
    "active": false,
    "arenas": {
@@ -11525,6 +11539,11 @@
     "output": 15
    }
   },
+  "alabama": {
+   "image": {
+    "perImage": 0.08
+   }
+  },
   "alder": {
    "image": {
     "perImage": 0.025
@@ -14452,10 +14471,6 @@
    "logoName": "KandiskyLogo.jpeg",
    "website": "https://fal.ai"
   },
-  "alabama": {
-   "displayName": "alabama",
-   "logoName": "private.png"
-  },
   "alai": {
    "displayName": "Alai",
    "logoName": "alai-logo.png",
@@ -15633,6 +15648,11 @@
   "seaside": {
    "displayName": "seaside",
    "logoName": "private.png"
+  },
+  "sensenova": {
+   "displayName": "SenseNova",
+   "logoName": "sensenova.png",
+   "website": "https://www.sensenova.ai"
   },
   "sentry": {
    "displayName": "sentry",

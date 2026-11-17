@@ -1538,5 +1538,62 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 16096779,
+    "description": "**SenseNova U1 Pro** \u00b7 SenseNova (`alabama`)",
+    "fields": [
+     {
+      "inline": true,
+      "name": "Lab",
+      "value": "SenseNova"
+     },
+     {
+      "inline": true,
+      "name": "Open weights",
+      "value": "False"
+     },
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "image, imagetoimage"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "image perImage 0.08"
+     },
+     {
+      "inline": true,
+      "name": "Slot first seen",
+      "value": "2026-11-03T09:55:33Z"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T08:16:25Z",
+    "title": "\ud83c\udfad Revealed: `alabama` \u2192 SenseNova U1 Pro",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1357990,
+    "description": "`sensenova` \u00b7 https://www.sensenova.ai",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-17T08:16:25Z",
+    "title": "\ud83c\udfe2 New lab on Design Arena: SenseNova",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
