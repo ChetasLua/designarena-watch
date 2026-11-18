@@ -1829,5 +1829,51 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Gemini 4 Neon** \u00b7 Google (`gemini-4-neon`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, uicomponent, gamedev, dataviz, 3d, svg, ascii"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $3/$15 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-18T22:54:04Z",
+    "title": "\ud83c\udd95 New model: Gemini 4 Neon",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Hume Octave 2** \u00b7 active: True \u2192 False\n**Arrow-1.0** \u00b7 active: True \u2192 False\n**Arrow 1.1** \u00b7 active: True \u2192 False\n**Arrow 1.1 Max** \u00b7 active: True \u2192 False\n**Cosmos 3 Super** \u00b7 active: True \u2192 False\n**Speech 2.6** \u00b7 active: True \u2192 False",
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-18T22:54:04Z",
+    "title": "\u270f\ufe0f 6 model rows changed",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
