@@ -6366,6 +6366,30 @@
    "router": false,
    "vision": true
   },
+  "hy4-direct": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg"
+    ]
+   },
+   "displayName": "Hy4 (Direct)",
+   "id": "hy4-direct",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "modeOf": "hy4",
+   "openSource": true,
+   "provider": "tencent",
+   "router": false,
+   "vision": true
+  },
   "hy4-flash": {
    "active": true,
    "arenas": {
@@ -6384,6 +6408,30 @@
     "text",
     "image"
    ],
+   "openSource": false,
+   "provider": "tencent",
+   "router": false,
+   "vision": true
+  },
+  "hy4-flash-direct": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "website",
+     "gamedev",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "svg"
+    ]
+   },
+   "displayName": "Hy4 Flash (Direct)",
+   "id": "hy4-flash-direct",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "modeOf": "hy4-flash",
    "openSource": false,
    "provider": "tencent",
    "router": false,
@@ -11665,7 +11713,8 @@
   },
   "alabama": {
    "image": {
-    "perImage": 0.08
+    "perImage": 0.0391,
+    "perImageEdit": 0.0333
    }
   },
   "alder": {
@@ -13310,7 +13359,19 @@
     "output": 2.501
    }
   },
+  "hy4-direct": {
+   "text": {
+    "input": 0.834,
+    "output": 2.501
+   }
+  },
   "hy4-flash": {
+   "text": {
+    "input": 0.07,
+    "output": 0.281
+   }
+  },
+  "hy4-flash-direct": {
    "text": {
     "input": 0.07,
     "output": 0.281
@@ -15257,6 +15318,10 @@
    "displayName": "Kalpa Labs",
    "logoName": "kalpa.png",
    "website": "https://kalpalabs.ai"
+  },
+  "kansas": {
+   "displayName": "kansas",
+   "logoName": "private.png"
   },
   "kestrel": {
    "displayName": "kestrel",

@@ -1749,5 +1749,85 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Family",
+      "value": "places (US states) \u2014 other live slots: montana, texas, utah, vermont, virginia"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-18T15:58:35Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `kansas`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Hy4 (Direct)** \u00b7 Tencent (`hy4-direct`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, gamedev, 3d, dataviz, uicomponent, svg"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $0.834/$2.501 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-18T15:58:35Z",
+    "title": "\ud83c\udd95 New model: Hy4 (Direct)",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 1096065,
+    "description": "**Hy4 Flash (Direct)** \u00b7 Tencent (`hy4-flash-direct`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, gamedev, 3d, dataviz, uicomponent, svg"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $0.07/$0.281 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-18T15:58:35Z",
+    "title": "\ud83c\udd95 New model: Hy4 Flash (Direct)",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
