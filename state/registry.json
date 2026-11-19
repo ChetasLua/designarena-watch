@@ -5238,6 +5238,36 @@
    "router": false,
    "vision": true
   },
+  "gpt-6.2-astra-max": {
+   "active": true,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "fullstack",
+     "agon_godot",
+     "agon_slides",
+     "agon_slides_html",
+     "agentic_gamedev",
+     "fullstack_gamedev",
+     "agentic_3d",
+     "agon_dataviz",
+     "agon_blender",
+     "nativeapps",
+     "mobileapps"
+    ]
+   },
+   "displayName": "GPT-6.2 Astra (max)",
+   "id": "gpt-6.2-astra-max",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "modeOf": "gpt-6.2-astra",
+   "openSource": false,
+   "provider": "openai",
+   "router": false,
+   "vision": true
+  },
   "gpt-6.2-sol": {
    "active": true,
    "arenas": {
@@ -13094,6 +13124,14 @@
    }
   },
   "gpt-6.2-astra": {
+   "text": {
+    "cacheWrite": 10,
+    "cachedInput": 0.4,
+    "input": 8,
+    "output": 40
+   }
+  },
+  "gpt-6.2-astra-max": {
    "text": {
     "cacheWrite": 10,
     "cachedInput": 0.4,

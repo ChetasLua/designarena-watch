@@ -1875,5 +1875,36 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**GPT-6.2 Astra (max)** \u00b7 OpenAI (`gpt-6.2-astra-max`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $8/$40 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-19T03:56:33Z",
+    "title": "\ud83c\udd95 New model: GPT-6.2 Astra (max)",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
