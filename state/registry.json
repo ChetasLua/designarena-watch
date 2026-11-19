@@ -6533,6 +6533,20 @@
    "router": false,
    "vision": true
   },
+  "ideogram-4.6-high": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "image",
+     "imagetoimage"
+    ]
+   },
+   "displayName": "Ideogram 4.6 (High)",
+   "id": "ideogram-4.6-high",
+   "openSource": false,
+   "provider": "ideogram",
+   "router": false
+  },
   "ideogram-v3": {
    "active": false,
    "arenas": {
@@ -13470,6 +13484,12 @@
     "cachedInput": 0.004,
     "input": 0.1,
     "output": 0.5
+   }
+  },
+  "ideogram-4.6-high": {
+   "image": {
+    "perImage": 0.1,
+    "perImageEdit": 0.22
    }
   },
   "ideogram-v3": {
