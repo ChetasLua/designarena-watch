@@ -9435,7 +9435,8 @@
    "active": true,
    "arenas": {
     "models": [
-     "image"
+     "image",
+     "imagetoimage"
     ]
    },
    "displayName": "Canva Craft",

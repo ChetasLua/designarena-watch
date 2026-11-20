@@ -1942,5 +1942,31 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**Canva Craft** \u00b7 Canva (`pelican`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "arenas",
+      "value": "+ imagetoimage"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-20T02:02:34Z",
+    "title": "\u270f\ufe0f Model changed: Canva Craft",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
