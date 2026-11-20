@@ -9435,8 +9435,7 @@
    "active": true,
    "arenas": {
     "models": [
-     "image",
-     "imagetoimage"
+     "image"
     ]
    },
    "displayName": "Canva Craft",
@@ -15688,6 +15687,10 @@
    "displayName": "Murf AI",
    "logoName": "murf-logo.jpeg",
    "website": "https://murf.ai"
+  },
+  "nebraska": {
+   "displayName": "nebraska",
+   "logoName": "private.png"
   },
   "neptune": {
    "displayName": "neptune",

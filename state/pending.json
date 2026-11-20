@@ -1968,5 +1968,42 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-20T18:22:05Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `nebraska`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Canva Craft** \u00b7 Canva (`pelican`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "arenas",
+      "value": "  \u2212 imagetoimage"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-20T18:22:05Z",
+    "title": "\u270f\ufe0f Model changed: Canva Craft",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
