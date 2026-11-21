@@ -2067,5 +2067,48 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**Gemini Omni Flash** \u00b7 Google (`gemini-omni-flash-2`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "arenas",
+      "value": "  \u2212 multimodaltovideo"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-21T15:08:19Z",
+    "title": "\u270f\ufe0f Model changed: Gemini Omni Flash",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Happy Horse 1.1** \u00b7 Alibaba (`happy-horse-1.1`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "arenas",
+      "value": "  \u2212 multimodaltovideo"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-21T15:08:19Z",
+    "title": "\u270f\ufe0f Model changed: Happy Horse 1.1",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

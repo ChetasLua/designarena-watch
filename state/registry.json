@@ -3690,8 +3690,7 @@
      "video",
      "imagetovideo",
      "multitovideo",
-     "videotovideo",
-     "multimodaltovideo"
+     "videotovideo"
     ]
    },
    "displayName": "Gemini Omni Flash",
@@ -6053,8 +6052,7 @@
     "models": [
      "video",
      "imagetovideo",
-     "multitovideo",
-     "multimodaltovideo"
+     "multitovideo"
     ]
    },
    "display": {
