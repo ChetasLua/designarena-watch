@@ -6730,6 +6730,28 @@
    "provider": "thinkingmachines",
    "router": false
   },
+  "inkling-2-mini": {
+   "active": true,
+   "arenas": {
+    "models": [
+     "website",
+     "3d",
+     "uicomponent",
+     "dataviz",
+     "svg"
+    ]
+   },
+   "displayName": "Inkling 2 Mini",
+   "id": "inkling-2-mini",
+   "inputModalities": [
+    "text",
+    "image"
+   ],
+   "openSource": true,
+   "provider": "thinkingmachines",
+   "router": false,
+   "vision": true
+  },
   "intellect-3": {
    "active": false,
    "arenas": {
@@ -13542,6 +13564,13 @@
     "cachedInput": 0.17,
     "input": 1,
     "output": 4.05
+   }
+  },
+  "inkling-2-mini": {
+   "text": {
+    "cachedInput": 0.015,
+    "input": 0.15,
+    "output": 0.5
    }
   },
   "intellect-3": {
