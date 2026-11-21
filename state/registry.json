@@ -6735,6 +6735,7 @@
    "arenas": {
     "models": [
      "website",
+     "gamedev",
      "3d",
      "uicomponent",
      "dataviz",

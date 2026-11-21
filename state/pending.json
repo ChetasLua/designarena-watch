@@ -2041,5 +2041,31 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**Inkling 2 Mini** \u00b7 Thinking Machines (`inkling-2-mini`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "arenas",
+      "value": "+ gamedev"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-21T06:56:38Z",
+    "title": "\u270f\ufe0f Model changed: Inkling 2 Mini",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
