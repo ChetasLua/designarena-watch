@@ -9521,7 +9521,7 @@
    "router": false
   },
   "qwen-image": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "logo",
@@ -9565,7 +9565,7 @@
    "router": false
   },
   "qwen-image-edit": {
-   "active": true,
+   "active": false,
    "arenas": {
     "models": [
      "imagetoimage"
@@ -15294,6 +15294,10 @@
    "displayName": "Glam.ai",
    "logoName": "glam-logo.png",
    "website": "https://www.glam.ai/"
+  },
+  "godwit": {
+   "displayName": "godwit",
+   "logoName": "private.png"
   },
   "goldfish": {
    "displayName": "goldfish",
