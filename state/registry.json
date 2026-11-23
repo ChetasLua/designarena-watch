@@ -15459,6 +15459,10 @@
    "displayName": "kansas",
    "logoName": "private.png"
   },
+  "kentucky": {
+   "displayName": "kentucky",
+   "logoName": "private.png"
+  },
   "kestrel": {
    "displayName": "kestrel",
    "logoName": "private.png"
@@ -15780,6 +15784,10 @@
    "displayName": "Odyssey",
    "logoName": "odyssey.png",
    "website": "https://odyssey.ml"
+  },
+  "ohio": {
+   "displayName": "ohio",
+   "logoName": "private.png"
   },
   "openai": {
    "displayName": "OpenAI",

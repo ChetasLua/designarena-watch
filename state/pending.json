@@ -2110,5 +2110,53 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Family",
+      "value": "places (US states) \u2014 other live slots: kansas, montana, texas, utah, vermont, virginia"
+     },
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`kentucky`, `ohio`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-23T01:48:39Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `ohio`",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 9133302,
+    "description": "A new hidden codename slot appeared in Design Arena's public registry (private logo, no model row yet).",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Added in the same poll",
+      "value": "`kentucky`, `ohio`"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-23T01:48:39Z",
+    "title": "\ud83d\udd75\ufe0f New stealth model: `kentucky`",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
