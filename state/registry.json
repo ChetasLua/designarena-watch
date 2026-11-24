@@ -15434,6 +15434,10 @@
    "logoName": "inworld-logo.png",
    "website": "https://inworld.ai"
   },
+  "iowa": {
+   "displayName": "iowa",
+   "logoName": "private.png"
+  },
   "jules": {
    "displayName": "Google",
    "logoName": "jules-logo.png"
