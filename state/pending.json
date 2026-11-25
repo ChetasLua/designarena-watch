@@ -2232,5 +2232,41 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Solar Mini 4.5 Preview** \u00b7 Upstage (`solar-mini4-5-preview`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, 3d, dataviz, uicomponent, gamedev"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $0.1/$0.4 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-25T00:57:31Z",
+    "title": "\ud83c\udd95 New model: Solar Mini 4.5 Preview",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]

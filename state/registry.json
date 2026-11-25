@@ -10829,6 +10829,31 @@
    "router": false,
    "vision": false
   },
+  "solar-mini4-5-preview": {
+   "active": false,
+   "arenas": {
+    "agents": [
+     "agon_webapps",
+     "fullstack"
+    ],
+    "models": [
+     "website",
+     "3d",
+     "dataviz",
+     "uicomponent",
+     "gamedev"
+    ]
+   },
+   "displayName": "Solar Mini 4.5 Preview",
+   "id": "solar-mini4-5-preview",
+   "inputModalities": [
+    "text"
+   ],
+   "openSource": false,
+   "provider": "upstage",
+   "router": false,
+   "vision": false
+  },
   "solar-pro4-direct": {
    "active": false,
    "arenas": {
@@ -14587,6 +14612,12 @@
    }
   },
   "solar-mini4": {
+   "text": {
+    "input": 0.1,
+    "output": 0.4
+   }
+  },
+  "solar-mini4-5-preview": {
    "text": {
     "input": 0.1,
     "output": 0.4
