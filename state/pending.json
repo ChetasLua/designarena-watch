@@ -2268,5 +2268,92 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 1096065,
+    "description": "**Mistral Large 4** \u00b7 Mistral (`mistral-large-4`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "Arenas",
+      "value": "website, 3d, dataviz, gamedev, uicomponent, svg, ascii"
+     },
+     {
+      "inline": false,
+      "name": "Price",
+      "value": "text $0.7/$2.1 per M"
+     },
+     {
+      "inline": true,
+      "name": "Active",
+      "value": "True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-25T19:35:56Z",
+    "title": "\ud83c\udd95 New model: Mistral Large 4",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Mistral Large 4 Preview** \u00b7 Mistral (`mistral-large-4-0`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "openSource",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-25T19:35:56Z",
+    "title": "\u270f\ufe0f Model changed: Mistral Large 4 Preview",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Mistral Large 4 Preview** \u00b7 Mistral (`mistral-large-4-0-high`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "openSource",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-25T19:35:56Z",
+    "title": "\u270f\ufe0f Model changed: Mistral Large 4 Preview",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**Solar Mini 4.5 Preview** \u00b7 Upstage (`solar-mini4-5-preview`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "False \u2192 True"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-25T19:35:56Z",
+    "title": "\u270f\ufe0f Model changed: Solar Mini 4.5 Preview",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
