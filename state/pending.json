@@ -2436,5 +2436,48 @@
    }
   ],
   "username": "Design Arena Watch"
+ },
+ {
+  "allowed_mentions": {
+   "parse": [],
+   "roles": []
+  },
+  "embeds": [
+   {
+    "color": 3900150,
+    "description": "**MiMo-V2.5-Pro** \u00b7 Xiaomi (`mimo-v2.5-pro`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-26T11:17:30Z",
+    "title": "\u270f\ufe0f Model changed: MiMo-V2.5-Pro",
+    "url": "https://www.designarena.ai/leaderboard"
+   },
+   {
+    "color": 3900150,
+    "description": "**MiMo-V2.5** \u00b7 Xiaomi (`mimo-v2.5`)",
+    "fields": [
+     {
+      "inline": false,
+      "name": "active",
+      "value": "True \u2192 False"
+     }
+    ],
+    "footer": {
+     "text": "designarena.ai/api/registry"
+    },
+    "timestamp": "2026-11-26T11:17:30Z",
+    "title": "\u270f\ufe0f Model changed: MiMo-V2.5",
+    "url": "https://www.designarena.ai/leaderboard"
+   }
+  ],
+  "username": "Design Arena Watch"
  }
 ]
